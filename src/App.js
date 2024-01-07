@@ -5,6 +5,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Homescreen from './Screens/Homescreen'
 
 
+import './style.css'
+
+
+
+
 function App() {
   return (
     <div>
