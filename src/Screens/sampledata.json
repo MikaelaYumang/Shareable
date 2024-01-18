@@ -1,20 +1,21 @@
 [
   {
       "id": 1,
-      "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/d/e/dell_g15_5515_amd_rayzen_7_16gb_ram_512gb_ssd_15.6-inch_gaming_laptop_1.jpg",
-      "title": "Gaming Laptop",
-      "price": 30000
+      "image": "https://media.istockphoto.com/id/1393750072/vector/flat-white-icon-man-for-web-design-silhouette-flat-illustration-vector-illustration-stock.jpg?s=612x612&w=0&k=20&c=s9hO4SpyvrDIfELozPpiB_WtzQV9KhoMUP9R9gVohoU=",
+      "name": "Nash Maglaqui",
+      "bio": "Content Creator"
   },
   {
       "id": 2,
-      "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/i/m/image_template_2_-_2020-11-23t113708.928.jpg",
-      "title": "Macbook M1 Air",
-      "price": 40000
+      "image": "https://media.istockphoto.com/id/1393750072/vector/flat-white-icon-man-for-web-design-silhouette-flat-illustration-vector-illustration-stock.jpg?s=612x612&w=0&k=20&c=s9hO4SpyvrDIfELozPpiB_WtzQV9KhoMUP9R9gVohoU=",
+      "name": "Martin Roque",
+      "bio": "Content Creator"
+      
   },
   {
       "id": 3,
-      "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/p/s/ps5_b2.jpg",
-      "title": "PlayStation 5 Console",
-      "price": 50000
+      "image": "https://media.istockphoto.com/id/1393750072/vector/flat-white-icon-man-for-web-design-silhouette-flat-illustration-vector-illustration-stock.jpg?s=612x612&w=0&k=20&c=s9hO4SpyvrDIfELozPpiB_WtzQV9KhoMUP9R9gVohoU=",
+      "name": "Liam Manese",
+      "bio": "Content Creator"
   }
 ]
